@@ -4,7 +4,8 @@
   "description": "Project to demonstrate bug reported at https://developers.facebook.com/bugs/1120612631391034/",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.js",
+    "query-api": "node ./index.js",
+    "query-api-with-user-agent": "node ./index-with-useragent.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
