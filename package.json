@@ -1,0 +1,23 @@
+{
+  "name": "fb-oembed-api-debug-test",
+  "version": "1.0.0",
+  "description": "Project to demonstrate bug reported at https://developers.facebook.com/bugs/1120612631391034/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukasBombach/fb-oembed-api-debug-test.git"
+  },
+  "author": "Lukas Bombach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukasBombach/fb-oembed-api-debug-test/issues"
+  },
+  "homepage": "https://github.com/LukasBombach/fb-oembed-api-debug-test#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
